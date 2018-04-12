@@ -1,5 +1,7 @@
 # M5Stack_CrackScreen
 
+Video: <https://www.youtube.com/watch?v=jHO_sEI6Y_8>
+
 M5Stack Gray (with MPU9250) is needed.
 
 M5Stack_CrackScreen.ino -> M5Stack  
